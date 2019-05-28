@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GeoCalculatorApp</string>
+    <string name="enter_latitude_for_p1">Enter latitude for p1</string>
+    <string name="enter_latitude_for_p2">Enter latitude for p2</string>
+    <string name="enter_longitude_for_p2">Enter longitude for p2</string>
+    <string name="enter_longitude_for_p1">Enter longitude for p1</string>
+    <string name="calculate">Calculate</string>
+    <string name="clear">Clear</string>
+    <string name="distance">Distance:</string>
+    <string name="bearing">Bearing:</string>
+    <string name="title_activity_unit_setting">unitSettingActivity</string>
+    <string name="main_menu">Settings</string>
+    <string-array name="distanceUnits">
+        <item>Kilometers</item>
+        <item>Miles</item>
+    </string-array>
+    <string-array name="bearingUnits">
+        <item>Degrees</item>
+        <item>Mils</item>
+    </string-array>
+</resources>
